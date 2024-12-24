@@ -12,6 +12,11 @@ NextStep CV is a powerful and intuitive resume builder that helps users create b
 
 ## Sample CV
 
+![screencapture-localhost-3000-2024-12-24-18_26_08](https://github.com/user-attachments/assets/d76ee233-0749-4016-9f89-832ff1dfe8ef)
+
+![screencapture-localhost-3000-2024-12-24-18_25_36](https://github.com/user-attachments/assets/863e8691-390a-48ab-b6e0-497ede02683f)
+
+![screencapture-localhost-3000-2024-12-24-18_25_09](https://github.com/user-attachments/assets/2e2b67e9-ff77-4cef-8a57-9d509b528dfc)
 
 
 ## Installation
